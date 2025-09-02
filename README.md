@@ -1,12 +1,19 @@
-# React + Vite
+#FlowBoard – Draggable Notes App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 A sleek draggable notes & documents app built with **React** and **Framer Motion**.  
+Organize, move, and manage your notes effortlessly with smooth animations, modern UI, and quick actions like download & close.  
 
-Currently, two official plugins are available:
+## ✨ Features
+- 📝 Create and manage notes/documents  
+- 🎯 Drag-and-drop interaction  
+- ⬇️ Quick download & ❌ remove  
+- 🎨 Modern, animated UI with Framer Motion  
+- ⚡ Built with React + Vite  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![Dragable Notes App](public/pic.png)
+## 📦 Installation
+```bash
+git clone https://github.com/AmishiR/FlowBoard-Draggable-Notes.git
+cd FlowBoard-Draggable-Notes
+npm install
+npm run dev
