@@ -10,7 +10,7 @@ Organize, move, and manage your notes effortlessly with smooth animations, moder
 - 🎨 Modern, animated UI with Framer Motion  
 - ⚡ Built with React + Vite  
 
-![Dragable Notes App](/docs_mini/public/pic.png)
+![Dragable Notes App](public/pic.png)
 ## 📦 Installation
 ```bash
 git clone https://github.com/AmishiR/FlowBoard-Draggable-Notes.git
